@@ -39,7 +39,7 @@ remake_dataset = 0;   % Option to remake the dataset
 ### Installation
 
 ```bash
-git clone https://github.com/ArashRabbani/mosaic_maker.git
+git clone https://github.com/ArashRabbani/Mosaic_Maker.git
 cd mosaic_maker
 ```
 ### Enjoy! :D
