@@ -1,5 +1,5 @@
 # Mosaic_Maker
-Quickly generates mosaic images from an image folder 
+Quickly generates mosaic images from an image folder
 
 
 This simple Matlab code quickly generates mosaic images using a folder containing a good number of images. The current dataset comprises 620 robot portrait images, made via stable-diffusion-v1-4 pretrained model. Images are stored in the 'Dataset' folder which is zipped.
